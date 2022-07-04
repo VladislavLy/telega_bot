@@ -1,0 +1,8 @@
+__pycache__
+db.sqlite3
+env
+celerybeat-schedule.db
+.DS_Store
+.env
+.coverage
+brain/brain_data.db

@@ -1,0 +1,18 @@
+{
+    "stickers":[
+        {"1": "CAACAgIAAxkBAAPDYq8lRlC5sSuswv1gdJKe4be-7boAAisCAAM4oAoBRWsX17hroiQE"},
+        {"2": "CAACAgIAAxkBAAPSYq8sj1C_d3rxBiDhg47rjfwjlvsAAiQCAAM4oArCMa3oIMF4YiQE"},
+        {"3": "CAACAgIAAxkBAAIBDGKvOPlP3T8QiqKS7wtA7V24xvZgAAIGAgADOKAKr7bmqeP30e4kBA"},
+        {"4": "CAACAgIAAxkBAAIBDWKvORkZ4K8tSsP_az8vn0HiXbNpAAIcAgADOKAKUsFFnH84gmAkBA"},
+        {"5": "CAACAgIAAxkBAAIBDmKvOTd3SoHXxsooUaAkwlEenA7RAAIIAgADOKAK4E0N39osbdkkBA"},
+        {"6": "CAACAgIAAxkBAAIBE2KvOXP4fUiYmtJHcVi6cnUXGoFiAAIbAgADOKAKyX4j4MJpKzYkBA"},
+        {"7": "CAACAgIAAxkBAAIBJmKvOb4TO14UC73XDXnOS3EK7p5vAAIqAgADOKAKixFUpMTwjqckBA"},
+        {"8": "CAACAgIAAxkBAAIBJ2KvOeMnuBbryFFCqXxNg_jd8aVbAAIeAgADOKAKfuqKBkvBAx0kBA"}
+    ],
+    "answers":[
+        {"0": "Agree"},
+        {"1": "Disagree"},
+        {"2": "Maybe"}
+    ]
+
+}
